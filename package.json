@@ -13,7 +13,8 @@
     "provinces",
     "countries",
     "state",
-    "province"
+    "province",
+    "paypal"
   ],
   "scripts": {
     "test": "mocha "
