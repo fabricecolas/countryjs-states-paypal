@@ -1,6 +1,6 @@
 # countryjs-states-paypal 
 
-[![npm version](https://badge.fury.io/js/countryjs-state-paypal.svg)](https://badge.fury.io/js/countryjs-state-paypal)
+[![npm version](https://badge.fury.io/js/countryjs-states-paypal.svg)](https://badge.fury.io/js/countryjs-states-paypal)
 [![Build Status](https://travis-ci.org/fabricecolas/countryjs-states-paypal.png?branch=master)](https://travis-ci.org/fabricecolas/countryjs-states-paypal)
 [![Inline docs](https://inch-ci.org/github/fabricecolas/countryjs-states-paypal.svg?branch=master)](https://inch-ci.org/github/fabricecolas/countryjs-states-paypal)
 
