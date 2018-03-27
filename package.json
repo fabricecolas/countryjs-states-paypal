@@ -16,7 +16,7 @@
     "province"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha "
   },
   "author": "Fabrice Colas <fabrice.colas@gmail.com>",
   "license": "MIT",
