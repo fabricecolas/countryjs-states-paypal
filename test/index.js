@@ -13,23 +13,25 @@ describe("Map countryjs state to PayPal", function () {
         done()
       })
 
-      it("should contain data for every JSON file in the data directory", function (done) {
+      it("Should contain data for every JSON file in the data directory", function (done) {
         var dataDirectory = path.join(path.dirname(__dirname), "data")
           , dataArray = data()
 
-        fs.readdir(dataDirectory, function (err, files) {
+        fs.readdir(dataDirectory, function(err, files) {
           if (err) {
             done(err)
             return
           }
 
-          var jsonFiles = files.filter(function (file) {
+          var jsonFiles = files.filter(function(file) {
             return file.endsWith(".json")
           })
 
-          jsonFiles.forEach(function (file) {
-            var jsonData = require(path.join(dataDirectory, file))
-            expect(dataArray).to.contain(jsonData)
+          jsonFiles.forEach(function(file) {
+            var dat   = require(path.join(dataDirectory, file))
+              , json  = {} 
+            json[dat.country_iso2] = dat.states
+            expect(dataArray).to.contain(json)
           })
         })
 
