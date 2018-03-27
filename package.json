@@ -1,0 +1,32 @@
+{
+  "name": "countryjs-states-paypal",
+  "version": "0.1.0",
+  "description": "Utility library to map countryjs's state or provinces to PayPal's",
+  "main": "index.js",
+  "engines": [
+    "node"
+  ],
+  "keywords": [
+    "country",
+    "iso",
+    "states",
+    "provinces",
+    "countries",
+    "state",
+    "province"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrice Colas <fabrice.colas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "countryjs": "^1.8.0",
+    "lodash": "^4.17.5",
+    "require-all": "^2.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}

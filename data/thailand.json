@@ -1,0 +1,81 @@
+{   
+    "country_iso2": "TH"
+  , "states": [
+      {"name":"Amnat Charoen", "countryjs":"Amnat Charoen"}
+    , {"name":"Ang Thong", "countryjs":"Ang Thong"}
+    , {"name":"Bangkok", "countryjs":"Krung Thep Mahanakhon (Bangkok)"}
+    , {"name":"Bueng Kan", "countryjs":""}
+    , {"name":"Buri Ram", "countryjs":"Buriram"}
+    , {"name":"Chachoengsao", "countryjs":"Chachoengsao"}
+    , {"name":"Chai Nat", "countryjs":"Chai Nat"}
+    , {"name":"Chaiyaphum", "countryjs":"Chaiyaphum"}
+    , {"name":"Chanthaburi", "countryjs":"Chanthaburi"}
+    , {"name":"Chiang Mai", "countryjs":"Chiang Mai"}
+    , {"name":"Chiang Rai", "countryjs":"Chiang Rai"}
+    , {"name":"Chon Buri", "countryjs":"Chon Buri"}
+    , {"name":"Chumphon", "countryjs":"Chumphon"}
+    , {"name":"Kalasin", "countryjs":"Kalasin"}
+    , {"name":"Kamphaeng Phet", "countryjs":"Kamphaeng Phet"}
+    , {"name":"Kanchanaburi", "countryjs":"Kanchanaburi"}
+    , {"name":"Khon Kaen", "countryjs":"Khon Kaen"}
+    , {"name":"Krabi", "countryjs":"Krabi"}
+    , {"name":"Lampang", "countryjs":"Lampang"}
+    , {"name":"Lamphun", "countryjs":"Lamphun"}
+    , {"name":"Loei", "countryjs":"Loei"}
+    , {"name":"Lop Buri", "countryjs":"Lop Buri"}
+    , {"name":"Mae Hong Son", "countryjs":"Mae Hong Son"}
+    , {"name":"Maha Sarakham", "countryjs":"Maha Sarakham"}
+    , {"name":"Mukdahan", "countryjs":"Mukdahan"}
+    , {"name":"Nakhon Nayok", "countryjs":"Nakhon Nayok"}
+    , {"name":"Nakhon Pathom", "countryjs":"Nakhon Pathom"}
+    , {"name":"Nakhon Phanom", "countryjs":"Nakhon Phanom"}
+    , {"name":"Nakhon Ratchasima", "countryjs":"Nakhon Ratchasima"}
+    , {"name":"Nakhon Sawan", "countryjs":"Nakhon Sawan"}
+    , {"name":"Nakhon Si Thammarat", "countryjs":"Nakhon Si Thammarat"}
+    , {"name":"Nan", "countryjs":"Nan"}
+    , {"name":"Narathiwat", "countryjs":"Narathiwat"}
+    , {"name":"Nong Bua Lamphu", "countryjs":"Nong Bua Lamphu"}
+    , {"name":"Nong Khai", "countryjs":"Nong Khai"}
+    , {"name":"Nonthaburi", "countryjs":"Nonthaburi"}
+    , {"name":"Pathum Thani", "countryjs":"Pathum Thani"}
+    , {"name":"Pattani", "countryjs":"Pattani"}
+    , {"name":"Phang Nga", "countryjs":"Phangnga"}
+    , {"name":"Phatthalung", "countryjs":"Phatthalung"}
+    , {"name":"Phatthaya", "countryjs":null}
+    , {"name":"Phayao", "countryjs":"Phayao"}
+    , {"name":"Phetchabun", "countryjs":"Phetchabun"}
+    , {"name":"Phetchaburi", "countryjs":"Phetchaburi"}
+    , {"name":"Phichit", "countryjs":"Phichit"}
+    , {"name":"Phitsanulok", "countryjs":"Phitsanulok"}
+    , {"name":"Phra Nakhon Si Ayutthaya", "countryjs":"Phra Nakhon Si Ayutthaya"}
+    , {"name":"Phrae", "countryjs":"Phrae"}
+    , {"name":"Phuket", "countryjs":"Phuket"}
+    , {"name":"Prachin Buri", "countryjs":"Prachin Buri"}
+    , {"name":"Prachuap Khiri Khan", "countryjs":"Prachuap Khiri Khan"}
+    , {"name":"Ranong", "countryjs":"Ranong"}
+    , {"name":"Ratchaburi", "countryjs":"Ratchaburi"}
+    , {"name":"Rayong", "countryjs":"Rayong"}
+    , {"name":"Roi Et", "countryjs":"Roi Et"}
+    , {"name":"Sa Kaeo", "countryjs":"Sa Kaeo"}
+    , {"name":"Sakon Nakhon", "countryjs":"Sakon Nakhon"}
+    , {"name":"Samut Prakan", "countryjs":"Samut Prakan"}
+    , {"name":"Samut Sakhon", "countryjs":"Samut Sakhon"}
+    , {"name":"Samut Songkhram", "countryjs":"Samut Songkhram"}
+    , {"name":"Saraburi Satun", "countryjs":"Sara Buri Satun"}
+    , {"name":"Si Sa Ket", "countryjs":"Sisaket"}
+    , {"name":"Sing Buri", "countryjs":"Sing Buri"}
+    , {"name":"Songkhla", "countryjs":"Songkhla"}
+    , {"name":"Sukhothai", "countryjs":"Sukhothai"}
+    , {"name":"Suphan Buri", "countryjs":"Suphan Buri"}
+    , {"name":"Surat Thani", "countryjs":"Surat Thani"}
+    , {"name":"Surin", "countryjs":"Surin"}
+    , {"name":"Tak", "countryjs":"Tak"}
+    , {"name":"Trang", "countryjs":"Trang"}
+    , {"name":"Trat", "countryjs":"Trat"}
+    , {"name":"Ubon Ratchathani", "countryjs":"Ubon Ratchathani"}
+    , {"name":"Udon Thani", "countryjs":"Udon Thani"}
+    , {"name":"Uthai Thani", "countryjs":"Uthai Thani"}
+    , {"name":"Uttaradit", "countryjs":"Uttaradit"}
+    , {"name":"Yala", "countryjs":"Yala"}
+    , {"name":"Yasothon", "countryjs":"Yasothon"}]
+}

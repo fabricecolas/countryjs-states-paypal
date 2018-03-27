@@ -1,0 +1,52 @@
+{   
+    "country_iso2": "JP"
+  , "states": [
+      {"name":"Aichi", "code":"AICHI-KEN", "countryjs":"Aichi"}
+    , {"name":"Akita", "code":"AKITA-KEN", "countryjs":"Akita"}
+    , {"name":"Aomori", "code":"AOMORI-KEN", "countryjs":"Aomori"}
+    , {"name":"Chiba", "code":"CHIBA-KEN", "countryjs":"Chiba"}
+    , {"name":"Ehime", "code":"EHIME-KEN", "countryjs":"Ehime"}
+    , {"name":"Fukui", "code":"FUKUI-KEN", "countryjs":"Fukui"}
+    , {"name":"Fukuoka", "code":"FUKUOKA-KEN", "countryjs":"Fukuoka"}
+    , {"name":"Fukushima", "code":"FUKUSHIMA-KEN", "countryjs":"Fukushima"}
+    , {"name":"Gifu", "code":"GIFU-KEN", "countryjs":"Gifu"}
+    , {"name":"Gunma", "code":"GUNMA-KEN", "countryjs":"Gumma"}
+    , {"name":"Hiroshima", "code":"HIROSHIMA-KEN", "countryjs":"Hiroshima"}
+    , {"name":"Hokkaido", "code":"HOKKAIDO", "countryjs":"Hokkaido"}
+    , {"name":"Hyogo", "code":"HYOGO-KEN", "countryjs":"Hyogo"}
+    , {"name":"Ibaraki", "code":"IBARAKI-KEN", "countryjs":"Ibaraki"}
+    , {"name":"Ishikawa", "code":"ISHIKAWA-KEN", "countryjs":"Ishikawa"}
+    , {"name":"Iwate", "code":"IWATE-KEN", "countryjs":"Iwate"}
+    , {"name":"Kagawa", "code":"KAGAWA-KEN", "countryjs":"Kagawa"}
+    , {"name":"Kagoshima", "code":"KAGOSHIMA-KEN", "countryjs":"Kagoshima"}
+    , {"name":"Kanagawa", "code":"KANAGAWA-KEN", "countryjs":"Kanagawa"}
+    , {"name":"Kochi", "code":"KOCHI-KEN", "countryjs":"Kochi"}
+    , {"name":"Kumamoto", "code":"KUMAMOTO-KEN", "countryjs":"Kumamoto"}
+    , {"name":"Kyoto", "code":"KYOTO-FU", "countryjs":"Kyoto"}
+    , {"name":"Mie", "code":"MIE-KEN", "countryjs":"Mie"}
+    , {"name":"Miyagi", "code":"MIYAGI-KEN", "countryjs":"Miyagi"}
+    , {"name":"Miyazaki", "code":"MIYAZAKI-KEN", "countryjs":"Miyazaki"}
+    , {"name":"Nagano", "code":"NAGANO-KEN", "countryjs":"Nagano"}
+    , {"name":"Nagasaki", "code":"NAGASAKI-KEN", "countryjs":"Nagasaki"}
+    , {"name":"Nara", "code":"NARA-KEN", "countryjs":"Nara"}
+    , {"name":"Niigata", "code":"NIIGATA-KEN", "countryjs":"Niigata"}
+    , {"name":"Oita", "code":"OITA-KEN", "countryjs":"Oita"}
+    , {"name":"Okayama", "code":"OKAYAMA-KEN", "countryjs":"Okayama"}
+    , {"name":"Okinawa", "code":"OKINAWA-KEN", "countryjs":"Okinawa"}
+    , {"name":"Osaka", "code":"OSAKA-FU", "countryjs":"Osaka"}
+    , {"name":"Saga", "code":"SAGA-KEN", "countryjs":"Saga"}
+    , {"name":"Saitama", "code":"SAITAMA-KEN", "countryjs":"Saitama"}
+    , {"name":"Shiga", "code":"SHIGA-KEN", "countryjs":"Shiga"}
+    , {"name":"Shimane", "code":"SHIMANE-KEN", "countryjs":"Shimane"}
+    , {"name":"Shizuoka", "code":"SHIZUOKA-KEN", "countryjs":"Shizuoka"}
+    , {"name":"Tochigi", "code":"TOCHIGI-KEN", "countryjs":"Tochigi"}
+    , {"name":"Tokushima", "code":"TOKUSHIMA-KEN", "countryjs":"Tokushima"}
+    , {"name":"Tokyo", "code":"TOKYO-TO", "countryjs":"Tokyo"}
+    , {"name":"Tottori", "code":"TOTTORI-KEN", "countryjs":"Tottori"}
+    , {"name":"Toyama", "code":"TOYAMA-KEN", "countryjs":"Toyama"}
+    , {"name":"Wakayama", "code":"WAKAYAMA-KEN", "countryjs":"Wakayama"}
+    , {"name":"Yamagata", "code":"YAMAGATA-KEN", "countryjs":"Yamagata"}
+    , {"name":"Yamaguchi", "code":"YAMAGUCHI-KEN", "countryjs":"Yamaguchi"}
+    , {"name":"Yamanashi", "code":"YAMANASHI-KEN", "countryjs":"Yamanashi"}]
+}
+

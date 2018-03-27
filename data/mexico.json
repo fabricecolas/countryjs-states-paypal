@@ -1,0 +1,36 @@
+{   
+    "country_iso2": "MX"
+  , "states": [
+      {"name":"Aguascalientes", "code":"AGS", "countryjs":"Aguascalientes"}
+    , {"name":"Baja California", "code":"BC", "countryjs":"Baja California"}
+    , {"name":"Baja California Sur", "code":"BCS", "countryjs":"Baja California Sur"}
+    , {"name":"Campeche", "code":"CAMP", "countryjs":"Campeche"}
+    , {"name":"Chiapas", "code":"CHIS", "countryjs":"Chiapas"}
+    , {"name":"Chihuahua", "code":"CHIH", "countryjs":"Chihuahua"}
+    , {"name":"Coahuila", "code":"COAH", "countryjs":"Coahuila de Zaragoza"}
+    , {"name":"Colima", "code":"COL", "countryjs":"Colima"}
+    , {"name":"Distrito Federal", "code":"DF", "countryjs":"Distrito Federal"}
+    , {"name":"Durango", "code":"DGO", "countryjs":"Durango"}
+    , {"name":"Estado de México", "code":"MEX", "countryjs":"Mexico"}
+    , {"name":"Guanajuato", "code":"GTO", "countryjs":"Guanajuato"}
+    , {"name":"Guerrero", "code":"GRO", "countryjs":"Guerrero"}
+    , {"name":"Hidalgo", "code":"HGO", "countryjs":"Hidalgo"}
+    , {"name":"Jalisco", "code":"JAL", "countryjs":"Jalisco"}
+    , {"name":"Michoacán", "code":"MICH", "countryjs":"Michoacan de Ocampo"}
+    , {"name":"Morelos", "code":"MOR", "countryjs":"Morelos"}
+    , {"name":"Nayarit", "code":"NAY", "countryjs":"Nayarit"}
+    , {"name":"Nuevo León", "code":"NL", "countryjs":"Nuevo Leon"}
+    , {"name":"Oaxaca", "code":"OAX", "countryjs":"Oaxaca"}
+    , {"name":"Puebla", "code":"PUE", "countryjs":"Puebla"}
+    , {"name":"Querétaro", "code":"QRO", "countryjs":"Queretaro de Arteaga"}
+    , {"name":"Quintana Roo", "code":"Q ROO", "countryjs":"Quintana Roo"}
+    , {"name":"San Luis Potosí", "code":"SLP", "countryjs":"San Luis Potosi"}
+    , {"name":"Sinaloa", "code":"SIN", "countryjs":"Sinaloa"}
+    , {"name":"Sonora", "code":"SON", "countryjs":"Sonora"}
+    , {"name":"Tabasco", "code":"TAB", "countryjs":"Tabasco"}
+    , {"name":"Tamaulipas", "code":"TAMPS", "countryjs":"Tamaulipas"}
+    , {"name":"Tlaxcala", "code":"TLAX", "countryjs":"Tlaxcala"}
+    , {"name":"Veracruz", "code":"VER", "countryjs":"Veracruz-Llave"}
+    , {"name":"Yucatán", "code":"YUC", "countryjs":"Yucatan"}
+    , {"name":"Zacatecas", "code":"ZACV", "countryjs":"Zacatecas"}]
+}

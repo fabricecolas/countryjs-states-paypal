@@ -1,0 +1,68 @@
+{   
+    "country_iso2": "US"
+  , "states": [
+      {"name":"Alabama", "code":"AL", "countryjs":"Alabama"}
+    , {"name":"Alaska", "code":"AK", "countryjs":"Alaska"}
+    , {"name":"Arizona", "code":"AZ", "countryjs":"Arizona"}
+    , {"name":"Arkansas", "code":"AR", "countryjs":"Arkansas"}
+    , {"name":"California", "code":"CA", "countryjs":"California"}
+    , {"name":"Colorado", "code":"CO", "countryjs":"Colorado"}
+    , {"name":"Connecticut", "code":"CT", "countryjs":"Connecticut"}
+    , {"name":"Delaware", "code":"DE", "countryjs":"Delaware"}
+    , {"name":"District of Columbia", "code":"DC", "countryjs":"District of Columbia"}
+    , {"name":"Florida", "code":"FL", "countryjs":"Florida"}
+    , {"name":"Georgia", "code":"GA", "countryjs":"Georgia"}
+    , {"name":"Hawaii", "code":"HI", "countryjs":"Hawaii"}
+    , {"name":"Idaho", "code":"ID", "countryjs":"Idaho"}
+    , {"name":"Illinois", "code":"IL", "countryjs":"Illinois"}
+    , {"name":"Indiana", "code":"IN", "countryjs":"Indiana"}
+    , {"name":"Iowa", "code":"IA", "countryjs":"Iowa"}
+    , {"name":"Kansas", "code":"KS", "countryjs":"Kansas"}
+    , {"name":"Kentucky", "code":"KY", "countryjs":"Kentucky"}
+    , {"name":"Louisiana", "code":"LA", "countryjs":"Louisiana"}
+    , {"name":"Maine", "code":"ME", "countryjs":"Maine"}
+    , {"name":"Maryland", "code":"MD", "countryjs":"Maryland"}
+    , {"name":"Massachusetts", "code":"MA", "countryjs":"Massachusetts"}
+    , {"name":"Michigan", "code":"MI", "countryjs":"Michigan"}
+    , {"name":"Minnesota", "code":"MN", "countryjs":"Minnesota"}
+    , {"name":"Mississippi", "code":"MS", "countryjs":"Mississippi"}
+    , {"name":"Missouri", "code":"MO", "countryjs":"Missouri"}
+    , {"name":"Montana", "code":"MT", "countryjs":"Montana"}
+    , {"name":"Nebraska", "code":"NE", "countryjs":"Nebraska"}
+    , {"name":"Nevada", "code":"NV", "countryjs":"Nevada"}
+    , {"name":"New Hampshire", "code":"NH", "countryjs":"New Hampshire"}
+    , {"name":"New Jersey", "code":"NJ", "countryjs":"New Jersey"}
+    , {"name":"New Mexico", "code":"NM", "countryjs":"New Mexico"}
+    , {"name":"New York", "code":"NY", "countryjs":"New York"}
+    , {"name":"North Carolina", "code":"NC", "countryjs":"North Carolina"}
+    , {"name":"North Dakota", "code":"ND", "countryjs":"North Dakota"}
+    , {"name":"Ohio", "code":"OH", "countryjs":"Ohio"}
+    , {"name":"Oklahoma", "code":"OK", "countryjs":"Oklahoma"}
+    , {"name":"Oregon", "code":"OR", "countryjs":"Oregon"}
+    , {"name":"Pennsylvania", "code":"PA", "countryjs":"Pennsylvania"}
+    , {"name":"Puerto Rico", "code":"PR", "countryjs":null}
+    , {"name":"Rhode Island", "code":"RI", "countryjs":"Rhode Island"}
+    , {"name":"South Carolina", "code":"SC", "countryjs":"South Carolina"}
+    , {"name":"South Dakota", "code":"SD", "countryjs":"South Dakota"}
+    , {"name":"Tennessee", "code":"TN", "countryjs":"Tennessee"}
+    , {"name":"Texas", "code":"TX", "countryjs":"Texas"}
+    , {"name":"Utah", "code":"UT", "countryjs":"Utah"}
+    , {"name":"Vermont", "code":"VT", "countryjs":"Vermont"}
+    , {"name":"Virginia", "code":"VA", "countryjs":"Virginia"}
+    , {"name":"Washington", "code":"WA", "countryjs":"Washington"}
+    , {"name":"West Virginia", "code":"WV", "countryjs":"West Virginia"}
+    , {"name":"Wisconsin", "code":"WI", "countryjs":"Wisconsin"}
+    , {"name":"Wyoming", "code":"WY", "countryjs":"Wyoming"}
+
+    , {"name":"Armed Forces Americas", "code":"AA", "countryjs":null}
+    , {"name":"Armed Forces Europe", "code":"AE", "countryjs":null}
+    , {"name":"Armed Forces Pacific", "code":"AP", "countryjs":null}
+
+    , {"name":"American Samoa", "code":"AS", "countryjs":null}
+    , {"name":"Federated States of Micronesia", "code":"FM", "countryjs":null}
+    , {"name":"Guam", "code":"GU", "countryjs":null}
+    , {"name":"Marshall Islands", "code":"MH", "countryjs":null}
+    , {"name":"Northern Mariana Islands", "code":"MP", "countryjs":null}
+    , {"name":"Palau", "code":"PW", "countryjs":null}
+    , {"name":"Virgin Islands", "code":"VI", "countryjs":null}]
+}

@@ -1,0 +1,38 @@
+{   
+    "country_iso2": "ID"
+  , "states": [
+      {"name":"Bali", "code":"ID-BA", "countryjs":"Bali"}
+    , {"name":"Bangka Belitung", "code":"ID-BB", "countryjs":"Bangka Belitung"}
+    , {"name":"Banten", "code":"ID-BT", "countryjs":"Banten"}
+    , {"name":"Bengkulu", "code":"ID-BE", "countryjs":"Bengkulu"}
+    , {"name":"DI Yogyakarta", "code":"ID-YO", "countryjs":"Yogyakarta"}
+    , {"name":"DKI Jakarta", "code":"ID-JK", "countryjs":"Jakarta"}
+    , {"name":"Gorontalo", "code":"ID-GO", "countryjs":"Gorontalo"}
+    , {"name":"Jambi", "code":"ID-JA", "countryjs":"Jambi"}
+    , {"name":"Jawa Barat", "code":"ID-JB", "countryjs":"Jawa Barat"}
+    , {"name":"Jawa Tengah", "code":"ID-JT", "countryjs":"Jawa Tengah"}
+    , {"name":"Jawa Timur", "code":"ID-JI", "countryjs":"Jawa Timur"}
+    , {"name":"Kalimantan Barat", "code":"ID-KB", "countryjs":"Kalimantan Barat"}
+    , {"name":"Kalimantan Selatan", "code":"ID-KS", "countryjs":"Kalimantan Selatan"}
+    , {"name":"Kalimantan Tengah", "code":"ID-KT", "countryjs":"Kalimantan Tengah"}
+    , {"name":"Kalimantan Timur", "code":"ID-KI", "countryjs":"Kalimantan Timur"}
+    , {"name":"Kalimantan Utara", "code":"ID-KU", "countryjs":"Kalimantan Utara"}
+    , {"name":"Kepulauan Riau", "code":"ID-KR", "countryjs":"Kepulauan Riau"}
+    , {"name":"Lampung", "code":"ID-LA", "countryjs":"Lampung"}
+    , {"name":"Maluku", "code":"ID-MA", "countryjs":"Maluku"}
+    , {"name":"Maluku Utara", "code":"ID-MU", "countryjs":"Maluku Utara"}
+    , {"name":"Nanggroe Aceh Darussalam", "code":"ID-AC", "countryjs":"Aceh"}
+    , {"name":"Nusa Tenggara Barat", "code":"ID-NB", "countryjs":"Nusa Tenggara Barat"}
+    , {"name":"Nusa Tenggara Timur", "code":"ID-NT", "countryjs":"Nusa Tenggara Timur"}
+    , {"name":"Papua", "code":"ID-PA", "countryjs":"Papua"}
+    , {"name":"Papua Barat", "code":"ID-PB", "countryjs":"Papua Barat"}
+    , {"name":"Riau", "code":"ID-RI", "countryjs":"Riau"}
+    , {"name":"Sulawesi Barat", "code":"ID-SR", "countryjs":"Sulawesi Barat"}
+    , {"name":"Sulawesi Selatan", "code":"ID-SN", "countryjs":"Sulawesi Selatan"}
+    , {"name":"Sulawesi Tengah", "code":"ID-ST", "countryjs":"Sulawesi Tengah"}
+    , {"name":"Sulawesi Tenggara", "code":"ID-SG", "countryjs":"Sulawesi Tenggara"}
+    , {"name":"Sulawesi Utara", "code":"ID-SA", "countryjs":"Sulawesi Utara"}
+    , {"name":"Sumatera Barat", "code":"ID-SB", "countryjs":"Sumatera Barat"}
+    , {"name":"Sumatera Selatan", "code":"ID-SS", "countryjs":"Sumatera Selatan"}
+    , {"name":"Sumatera Utara", "code":"ID-SU", "countryjs":"Sumatera Utara"} ]
+}

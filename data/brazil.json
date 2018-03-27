@@ -1,0 +1,32 @@
+{   
+    "country_iso2": "BR"
+  , "states": [
+      {"name":"Acre", "code":"AC", "countryjs":"Acre"}
+    , {"name":"Alagoas", "code":"AL", "countryjs":"Alagoas"}
+    , {"name":"Amapá", "code":"AP", "countryjs":"Amapa"}
+    , {"name":"Amazonas", "code":"AM", "countryjs":"Amazonas"}
+    , {"name":"Bahia", "code":"BA", "countryjs":"Bahia"}
+    , {"name":"Ceará", "code":"CE", "countryjs":"Ceara"}
+    , {"name":"Distrito Federal", "code":"DF", "countryjs":"Distrito Federal"}
+    , {"name":"Espírito Santo", "code":"ES", "countryjs":"Espirito Santo"}
+    , {"name":"Goiás", "code":"GO", "countryjs":"Goias"}
+    , {"name":"Maranhão", "code":"MA", "countryjs":"Maranhao"}
+    , {"name":"Mato Grosso", "code":"MT", "countryjs":"Mato Grosso"}
+    , {"name":"Mato Grosso do Sul", "code":"MS", "countryjs":"Mato Grosso do Sul"}
+    , {"name":"Minas Gerais", "code":"MG", "countryjs":"Minas Gerais"}
+    , {"name":"Paraná", "code":"PR", "countryjs":"Para"}
+    , {"name":"Paraíba", "code":"PB", "countryjs":"Paraiba"}
+    , {"name":"Pará", "code":"PA", "countryjs":"Parana"}
+    , {"name":"Pernambuco", "code":"PE", "countryjs":"Pernambuco"}
+    , {"name":"Piauí", "code":"PI", "countryjs":"Piaui"}
+    , {"name":"Rio Grande do Norte", "code":"RN", "countryjs":"Rio Grande do Norte"}
+    , {"name":"Rio Grande do Sul", "code":"RS", "countryjs":"Rio Grande do Sul"}
+    , {"name":"Rio de Janeiro", "code":"RJ", "countryjs":"Rio de Janeiro"}
+    , {"name":"Rondônia", "code":"RO", "countryjs":"Rondonia"}
+    , {"name":"Roraima", "code":"RR", "countryjs":"Roraima"}
+    , {"name":"Santa Catarina", "code":"SC", "countryjs":"Santa Catarina"}
+    , {"name":"Sergipe", "code":"SE", "countryjs":"Sergipe"}
+    , {"name":"São Paulo", "code":"SP", "countryjs":"Sao Paulo"}
+    , {"name":"Tocantins", "code":"TO", "countryjs":"Tocantins"}]
+}
+

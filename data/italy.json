@@ -1,0 +1,116 @@
+{   
+    "country_iso2": "IT"
+  , "states": [
+      {"name":"Agrigento", "code":"AG", "countryjs":null}
+    , {"name":"Alessandria", "code":"AL", "countryjs":null}
+    , {"name":"Ancona", "code":"AN", "countryjs":null}
+    , {"name":"Aosta", "code":"AO", "countryjs":null}
+    , {"name":"Arezzo", "code":"AR", "countryjs":null}
+    , {"name":"Ascoli", "code":"Piceno AP", "countryjs":null}
+    , {"name":"Asti", "code":"AT", "countryjs":null}
+    , {"name":"Avellino", "code":"AV", "countryjs":null}
+    , {"name":"Bari", "code":"BA", "countryjs":null}
+    , {"name":"Barletta-Andria-Trani", "code":"BT", "countryjs":null}
+    , {"name":"Belluno", "code":"BL", "countryjs":null}
+    , {"name":"Benevento", "code":"BN", "countryjs":null}
+    , {"name":"Bergamo", "code":"BG", "countryjs":null}
+    , {"name":"Biella", "code":"BI", "countryjs":null}
+    , {"name":"Bologna", "code":"BO", "countryjs":null}
+    , {"name":"Bolzano", "code":"BZ", "countryjs":null}
+    , {"name":"Brescia", "code":"BS", "countryjs":null}
+    , {"name":"Brindisi", "code":"BR", "countryjs":null}
+    , {"name":"Cagliari", "code":"CA", "countryjs":null}
+    , {"name":"Caltanissetta", "code":"CL", "countryjs":null}
+    , {"name":"Campobasso", "code":"CB", "countryjs":null}
+    , {"name":"Carbonia-Iglesias", "code":"CI", "countryjs":null}
+    , {"name":"Caserta", "code":"CE", "countryjs":null}
+    , {"name":"Catania", "code":"CT", "countryjs":null}
+    , {"name":"Catanzaro", "code":"CZ", "countryjs":null}
+    , {"name":"Chieti", "code":"CH", "countryjs":null}
+    , {"name":"Como", "code":"CO", "countryjs":null}
+    , {"name":"Cosenza", "code":"CS", "countryjs":null}
+    , {"name":"Cremona", "code":"CR", "countryjs":null}
+    , {"name":"Crotone", "code":"KR", "countryjs":null}
+    , {"name":"Cuneo", "code":"CN", "countryjs":null}
+    , {"name":"Enna", "code":"EN", "countryjs":null}
+    , {"name":"Fermo", "code":"FM", "countryjs":null}
+    , {"name":"Ferrara", "code":"FE", "countryjs":null}
+    , {"name":"Firenze", "code":"FI", "countryjs":null}
+    , {"name":"Foggia", "code":"FG", "countryjs":null}
+    , {"name":"Forlì-Cesena", "code":"FC", "countryjs":null}
+    , {"name":"Frosinone", "code":"FR", "countryjs":null}
+    , {"name":"Genova", "code":"GE", "countryjs":null}
+    , {"name":"Gorizia", "code":"GO", "countryjs":null}
+    , {"name":"Grosseto", "code":"GR", "countryjs":null}
+    , {"name":"Imperia", "code":"IM", "countryjs":null}
+    , {"name":"Isernia", "code":"IS", "countryjs":null}
+    , {"name":"L'Aquila", "code":"AQ", "countryjs":null}
+    , {"name":"La Spezia", "code":"SP", "countryjs":null}
+    , {"name":"Latina", "code":"LT", "countryjs":null}
+    , {"name":"Lecce", "code":"LE", "countryjs":null}
+    , {"name":"Lecco", "code":"LC", "countryjs":null}
+    , {"name":"Livorno", "code":"LI", "countryjs":null}
+    , {"name":"Lodi", "code":"LO", "countryjs":null}
+    , {"name":"Lucca", "code":"LU", "countryjs":null}
+    , {"name":"Macerata", "code":"MC", "countryjs":null}
+    , {"name":"Mantova", "code":"MN", "countryjs":null}
+    , {"name":"Massa-Carrara", "code":"MS", "countryjs":null}
+    , {"name":"Matera", "code":"MT", "countryjs":null}
+    , {"name":"Medio", "code":"Campidano VS", "countryjs":null}
+    , {"name":"Messina", "code":"ME", "countryjs":null}
+    , {"name":"Milano", "code":"MI", "countryjs":null}
+    , {"name":"Modena", "code":"MO", "countryjs":null}
+    , {"name":"Monza e della Brianza", "code":"MB", "countryjs":null}
+    , {"name":"Napoli", "code":"NA", "countryjs":null}
+    , {"name":"Novara", "code":"NO", "countryjs":null}
+    , {"name":"Nuoro", "code":"NU", "countryjs":null}
+    , {"name":"Ogliastra", "code":"OG", "countryjs":null}
+    , {"name":"Olbia-Tempio", "code":"OT", "countryjs":null}
+    , {"name":"Oristano", "code":"OR", "countryjs":null}
+    , {"name":"Padova", "code":"PD", "countryjs":null}
+    , {"name":"Palermo", "code":"PA", "countryjs":null}
+    , {"name":"Parma", "code":"PR", "countryjs":null}
+    , {"name":"Pavia", "code":"PV", "countryjs":null}
+    , {"name":"Perugia", "code":"PG", "countryjs":null}
+    , {"name":"Pesaro e Urbino", "code":"PU", "countryjs":null}
+    , {"name":"Pescara", "code":"PE", "countryjs":null}
+    , {"name":"Piacenza", "code":"PC", "countryjs":null}
+    , {"name":"Pisa", "code":"PI", "countryjs":null}
+    , {"name":"Pistoia", "code":"PT", "countryjs":null}
+    , {"name":"Pordenone", "code":"PN", "countryjs":null}
+    , {"name":"Potenza", "code":"PZ", "countryjs":null}
+    , {"name":"Prato", "code":"PO", "countryjs":null}
+    , {"name":"Ragusa", "code":"RG", "countryjs":null}
+    , {"name":"Ravenna", "code":"RA", "countryjs":null}
+    , {"name":"Reggio Calabria", "code":"RC", "countryjs":null}
+    , {"name":"Reggio Emilia", "code":"RE", "countryjs":null}
+    , {"name":"Rieti", "code":"RI", "countryjs":null}
+    , {"name":"Rimini", "code":"RN", "countryjs":null}
+    , {"name":"Roma", "code":"RM", "countryjs":null}
+    , {"name":"Rovigo", "code":"RO", "countryjs":null}
+    , {"name":"Salerno", "code":"SA", "countryjs":null}
+    , {"name":"Sassari", "code":"SS", "countryjs":null}
+    , {"name":"Savona", "code":"SV", "countryjs":null}
+    , {"name":"Siena", "code":"SI", "countryjs":null}
+    , {"name":"Siracusa", "code":"SR", "countryjs":null}
+    , {"name":"Sondrio", "code":"SO", "countryjs":null}
+    , {"name":"Taranto", "code":"TA", "countryjs":null}
+    , {"name":"Teramo", "code":"TE", "countryjs":null}
+    , {"name":"Terni", "code":"TR", "countryjs":null}
+    , {"name":"Torino", "code":"TO", "countryjs":null}
+    , {"name":"Trapani", "code":"TP", "countryjs":null}
+    , {"name":"Trento", "code":"TN", "countryjs":null}
+    , {"name":"Treviso", "code":"TV", "countryjs":null}
+    , {"name":"Trieste", "code":"TS", "countryjs":null}
+    , {"name":"Udine", "code":"UD", "countryjs":null}
+    , {"name":"Varese", "code":"VA", "countryjs":null}
+    , {"name":"Venezia", "code":"VE", "countryjs":null}
+    , {"name":"Verbano-Cusio-Ossola", "code":"VB", "countryjs":null}
+    , {"name":"Vercelli", "code":"VC", "countryjs":null}
+    , {"name":"Verona", "code":"VR", "countryjs":null}
+    , {"name":"Vibo Valentia", "code":"VV", "countryjs":null}
+    , {"name":"Vicenza", "code":"VI", "countryjs":null}
+    , {"name":"Viterbo", "code":"VT", "countryjs":null}]
+}
+
+

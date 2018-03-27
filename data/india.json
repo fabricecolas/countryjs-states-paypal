@@ -1,0 +1,42 @@
+{   
+    "country_iso2": "IN"
+  , "states": [
+      {"name":"Andaman and Nicobar Islands", "code":"Andaman and Nicobar Islands", "countryjs":"Andaman and Nicobar Islands"}
+    , {"name":"Andhra Pradesh", "code":"Andhra Pradesh", "countryjs":"Andhra Pradesh"}
+    , {"name":"Army Post Office", "code":"APO"}
+    , {"name":"Arunachal Pradesh", "code":"Arunachal Pradesh", "countryjs":"Arunachal Pradesh"}
+    , {"name":"Assam", "code":"Assam", "countryjs":"Assam"}
+    , {"name":"Bihar", "code":"Bihar", "countryjs":"Bihar"}
+    , {"name":"Chandigarh", "code":"Chandigarh", "countryjs":"Chandigarh"}
+    , {"name":"Chhattisgarh", "code":"Chhattisgarh", "countryjs":"Chhattisgarh"}
+    , {"name":"Dadra and Nagar Haveli", "code":"Dadra and Nagar Haveli", "countryjs":"Dadra and Nagar Haveli"}
+    , {"name":"Daman and Diu", "code":"Daman and Diu", "countryjs":"Daman and Diu"}
+    , {"name":"Goa", "code":"Goa", "countryjs":"Goa"}
+    , {"name":"Gujarat", "code":"Gujarat", "countryjs":"Gujarat"}
+    , {"name":"Haryana", "code":"Haryana", "countryjs":"Haryana"}
+    , {"name":"Himachal Pradesh", "code":"Himachal Pradesh", "countryjs":"Himachal Pradesh"}
+    , {"name":"Jammu and Kashmir", "code":"Jammu and Kashmir", "countryjs":"Jammu and Kashmir"}
+    , {"name":"Jharkhand", "code":"Jharkhand", "countryjs":"Jharkhand"}
+    , {"name":"Karnataka", "code":"Karnataka", "countryjs":"Karnataka"}
+    , {"name":"Kerala", "code":"Kerala", "countryjs":"Kerala"}
+    , {"name":"Lakshadweep", "code":"Lakshadweep", "countryjs":"Lakshadweep"}
+    , {"name":"Madhya Pradesh", "code":"Madhya Pradesh", "countryjs":"Madhya Pradesh"}
+    , {"name":"Maharashtra", "code":"Maharashtra", "countryjs":"Maharashtra"}
+    , {"name":"Manipur", "code":"Manipur", "countryjs":"Manipur"}
+    , {"name":"Meghalaya", "code":"Meghalaya", "countryjs":"Meghalaya"}
+    , {"name":"Mizoram", "code":"Mizoram", "countryjs":"Mizoram"}
+    , {"name":"Nagaland", "code":"Nagaland", "countryjs":"Nagaland"}
+    , {"name":"National Capital Territory of Delhi", "code":"Delhi (NCT)", "countryjs":"Delhi"}
+    , {"name":"Odisha", "code":"Odisha", "countryjs":"Odisha"}
+    , {"name":"Puducherry", "code":"Puducherry", "countryjs":"Puducherry"}
+    , {"name":"Punjab", "code":"Punjab", "countryjs":"Punjab"}
+    , {"name":"Rajasthan", "code":"Rajasthan", "countryjs":"Rajasthan"}
+    , {"name":"Sikkim", "code":"Sikkim", "countryjs":"Sikkim"}
+    , {"name":"Tamil Nadu", "code":"Tamil Nadu", "countryjs":"Tamil Nadu"}
+    , {"name":"Telangana", "code":"Telangana", "countryjs":"Telangana"}
+    , {"name":"Tripura", "code":"Tripura", "countryjs":"Tripura"}
+    , {"name":"Uttar Pradesh", "code":"Uttar Pradesh", "countryjs":"Uttar Pradesh"}
+    , {"name":"Uttarakhand", "code":"Uttarakhand", "countryjs":"Uttarakhand"}
+    , {"name":"West Bengal", "code":"West Bengal", "countryjs":"West Bengal"}]
+}
+

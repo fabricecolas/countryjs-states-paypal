@@ -1,0 +1,18 @@
+{   
+    "country_iso2": "CA"
+  , "states": [
+      {"name":"Alberta", "code":"AB", "countryjs": "Alberta"}
+    , {"name":"British Columbia", "code":"BC", "countryjs": "British Columbia"}
+    , {"name":"Manitoba", "code":"MB", "countryjs": "Manitoba"}
+    , {"name":"New Brunswick", "code":"NB", "countryjs": "New Brunswick"}
+    , {"name":"Newfoundland and Labrador", "code":"NL", "countryjs": "Newfoundland"}
+    , {"name":"Northwest Territories", "code":"NT", "countryjs": "Northwest Territories"}
+    , {"name":"Nova Scotia", "code":"NS", "countryjs": "Nova Scotia"}
+    , {"name":"Nunavut", "code":"NU", "countryjs": "Nunavut "}
+    , {"name":"Ontario", "code":"ON", "countryjs": "Ontario"}
+    , {"name":"Prince Edward Island", "code":"PE", "countryjs": "Prince Edward Island"}
+    , {"name":"Quebec", "code":"QC", "countryjs": "Quebec"}
+    , {"name":"Saskatchewan", "code":"SK", "countryjs": "Saskatchewan"}
+    , {"name":"Yukon", "code":"YT", "countryjs": "Yukon Territory"}
+  ]
+}

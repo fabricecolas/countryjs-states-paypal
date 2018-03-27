@@ -1,0 +1,30 @@
+{   
+    "country_iso2": "AR"
+  , "states": [
+    {"name": null, "code":null, "countryjs": "Antartica e Islas del Atlantico Sur"}
+  , {"name":"Buenos Aires (Ciudad)", "code": "CIUDAD AUTÓNOMA DE BUENOS AIRES", "countryjs": "Buenos Aires Capital Federal"}
+  , {"name":"Buenos Aires (Provincia)" , "code": "BUENOS AIRES", "countryjs": "Buenos Aires"}
+  , {"name":"Catamarca", "code": "CATAMARCA", "countryjs": "Catamarca"}
+  , {"name":"Chaco", "code": "CHACO", "countryjs":"Chaco"}
+  , {"name":"Chubut", "code": "CHUBUT", "countryjs":"Chubut"}
+  , {"name":"Corrientes", "code": "CORRIENTES", "countryjs":"Corrientes"}
+  , {"name":"Córdoba", "code": "CÓRDOBA", "countryjs":"Cordoba"}
+  , {"name":"Entre Ríos", "code": "ENTRE RÍOS", "countryjs":"Entre Rios"}
+  , {"name":"Formosa", "code": "FORMOSA", "countryjs":"Formosa"}
+  , {"name":"Jujuy", "code": "JUJUY", "countryjs":"Jujuy"}
+  , {"name":"La Pampa", "code": "LA PAMPA", "countryjs":"La Pampa"}
+  , {"name":"La Rioja", "code": "LA RIOJA", "countryjs":"La Rioja"}
+  , {"name":"Mendoza", "code": "MENDOZA", "countryjs":"Mendoza"}
+  , {"name":"Misiones", "code": "MISIONES", "countryjs":"Misiones"}
+  , {"name":"Neuquén", "code": "NEUQUÉN", "countryjs":"Neuquen"}
+  , {"name":"Río Negro", "code": "RÍO NEGRO", "countryjs":"Rio Negro"}
+  , {"name":"Salta", "code": "SALTA", "countryjs":"Salta"}
+  , {"name":"San Juan", "code": "SAN JUAN", "countryjs":"San Juan"}
+  , {"name":"San Luis", "code": "SAN LUIS", "countryjs":"San Luis"}
+  , {"name":"Santa Cruz", "code": "SANTA CRUZ", "countryjs":"Santa Cruz"}
+  , {"name":"Santa Fe", "code": "SANTA FE", "countryjs":"Santa Fe"}
+  , {"name":"Santiago del Estero", "code": "SANTIAGO DEL ESTERO", "countryjs":"Santiago del Estero"}
+  , {"name":"Tierra del Fuego", "code": "TIERRA DEL FUEGO", "countryjs":"Tierra del Fuego"}
+  , {"name":"Tucumán", "code": "TUCUMÁN", "countryjs":"Tucuman"}
+  ]
+}
