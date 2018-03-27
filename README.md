@@ -71,9 +71,9 @@ issues listed in it.
 
 ## Changelog
 
-### v0.1 - 2018-03-27
+### v0.1-v0.1.1 - 2018-03-27
 
-* Initial release 
+* Initial release: mapping, test coverage, travis-ci, npm package 
 
 ## Disclaimer
 
