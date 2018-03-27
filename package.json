@@ -22,7 +22,6 @@
   "author": "Fabrice Colas <fabrice.colas@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "countryjs": "^1.8.0",
     "lodash": "^4.17.5",
     "require-all": "^2.2.0"
   },
