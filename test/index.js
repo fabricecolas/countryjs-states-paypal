@@ -40,7 +40,7 @@ describe("Map countryjs state to PayPal", function () {
 
       it("Should have ISO2 country codes", function(done){
         var countryCodes  = _.keys(countryjsToPaypal.all())
-          , intersection = _.intersection([ "AR", "BR", "CA", "IN", "ID", "IT", "JP", "MX", "TH", "US" ], countryCodes) 
+          , intersection = _.intersection([ "AR", "BR", "CA", "CN", "IN", "ID", "IT", "JP", "MX", "TH", "US" ], countryCodes) 
         expect(intersection.length).to.equal(countryCodes.length)
         done()
       })

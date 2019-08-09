@@ -1,0 +1,39 @@
+{ 
+     "country_iso2": "CN"
+   , "states": [
+   {"name": "Anhui Sheng" , "name_local": "安徽省" , "code": "CN-AH", "countryjs": "Anhui"}
+ , {"name": "Beijing Shi" , "name_local": "北京市" , "code": "CN-BJ", "countryjs": "Beijing"}
+ , {"name": "Chongqing Shi" , "name_local": "重庆市" , "code": "CN-CQ", "countryjs": "Chongqing"}
+ , {"name": "Fujian Sheng" , "name_local": "福建省" , "code": "CN-FJ", "countryjs": "Fujian"}
+ , {"name": "Guangdong Sheng" , "name_local": "广东省" , "code": "CN-GD", "countryjs": "Guangdong"}
+ , {"name": "Gansu Sheng" , "name_local": "甘肃省" , "code": "CN-GS", "countryjs": "Gansu"}
+ , {"name": "Guangxi Zhuangzu Zizhiqu" , "name_local": "广西壮族自治区", "code": "CN-GX", "countryjs": "Guangxi"}
+ , {"name": "Guizhou Sheng" , "name_local": "贵州省" , "code": "CN-GZ", "countryjs": "Guizhou"}
+ , {"name": "Henan Sheng" , "name_local": "河南省" , "code": "CN-HA", "countryjs": "Henan"}
+ , {"name": "Hubei Sheng" , "name_local": "湖北省" , "code": "CN-HB", "countryjs": "Hubei"}
+ , {"name": "Hebei Sheng" , "name_local": "河北省" , "code": "CN-HE", "countryjs": "Hebei"}
+ , {"name": "Hainan Sheng" , "name_local": "海南省" , "code": "CN-HI", "countryjs": "Hainan"}
+ , {"name": "Hong Kong SAR" , "name_local": "香港特别行政区", "code": "CN-HK", "countryjs": null}
+ , {"name": "Heilongjiang Sheng" , "name_local": "黑龙江省" , "code": "CN-HL", "countryjs": "Heilongjiang"}
+ , {"name": "Hunan Sheng" , "name_local": "湖南省" , "code": "CN-HN", "countryjs": "Hunan"}
+ , {"name": "Jilin Sheng" , "name_local": "吉林省" , "code": "CN-JL", "countryjs": "Jilin"}
+ , {"name": "Jiangsu Sheng" , "name_local": "江苏省" , "code": "CN-JS", "countryjs": "Jiangsu"}
+ , {"name": "Jiangxi Sheng" , "name_local": "江西省" , "code": "CN-JX", "countryjs": "Jiangxi"}
+ , {"name": "Liaoning Sheng" , "name_local": "辽宁省" , "code": "CN-LN", "countryjs": "Liaoning"}
+ , {"name": "Macao SAR" , "name_local": "澳门特别行政区", "code": "CN-MO", "countryjs": null}
+ , {"name": "Nei Mongol Zizhiqu" , "name_local": "内蒙古自治区" , "code": "CN-NM", "countryjs": "Nei Mongol"}
+ , {"name": "Ningxia Huizu Zizhiqu" , "name_local": "宁夏回族自治区", "code": "CN-NX", "countryjs": "Ningxia"}
+ , {"name": "Qinghai Sheng" , "name_local": "青海省" , "code": "CN-QH", "countryjs": "Qinghai"}
+ , {"name": "Sichuan Sheng" , "name_local": "四川省" , "code": "CN-SC", "countryjs": "Sichuan"}
+ , {"name": "Shandong Sheng" , "name_local": "山东省" , "code": "CN-SD", "countryjs": "Shandong"}
+ , {"name": "Shanghai Shi" , "name_local": "上海市" , "code": "CN-SH", "countryjs": "Shanghai"}
+ , {"name": "Shaanxi Sheng" , "name_local": "陕西省" , "code": "CN-SN", "countryjs": "Shaanxi"}
+ , {"name": "Shanxi Sheng" , "name_local": "山西省" , "code": "CN-SX", "countryjs": "Shanxi"}
+ , {"name": "Tianjin Shi" , "name_local": "天津市" , "code": "CN-TJ", "countryjs": "Tianjin"}
+ , {"name": "Taiwan Sheng" , "name_local": "台湾省" , "code": "CN-TW", "countryjs": null}
+ , {"name": "Xinjiang Uygur Zizhiqu" , "name_local": "新疆维吾尔自治区", "code": "CN-XJ", "countryjs": "Xinjiang"}
+ , {"name": "Xizang Zizhiqu" , "name_local": "西藏自治区" , "code": "CN-XZ", "countryjs": "Xizang (Tibet)"}
+ , {"name": "Yunnan Sheng" , "name_local": "云南省" , "code": "CN-YN", "countryjs": "Yunnan"}
+ , {"name": "Zhejiang Sheng" , "name_local": "浙江省" , "code": "CN-ZJ", "countryjs": "Zhejiang"}
+ ]
+}

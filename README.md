@@ -71,6 +71,11 @@ issues listed in it.
 
 ## Changelog
 
+
+### v0.1.1-v0.2 - 2019-08-09
+
+* Add China's provinces 
+
 ### v0.1-v0.1.1 - 2018-03-27
 
 * Initial release: mapping, test coverage, travis-ci, npm package 
