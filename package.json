@@ -1,6 +1,6 @@
 {
   "name": "countryjs-states-paypal",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Utility library to map countryjs's states or provinces to PayPal's",
   "main": "index.js",
   "engines": [
